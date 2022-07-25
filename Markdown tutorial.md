@@ -31,10 +31,10 @@ For example:
 ![Something went wrong, try again!](fun_pic.jpg)
 
 ## Blockquotes
-To create a blockquote, start a line with greater than > followed by an optional space.
+To create a blockquote, start a line with greater than > followed by an optional space and then type your quote.
 > Only a Sith deals in absolut (c) Obi-Wan Kenobi, Star Wars
 
-Blockquotes can also containg another formating. Like so:
+Blockquotes can also contain another formatings. Like so:
 > *Only a Sith deals in absolut* (c) Obi-Wan Kenobi, Star Wars
 
 The upper blockquote is in Italic.
