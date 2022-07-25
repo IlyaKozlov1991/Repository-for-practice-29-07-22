@@ -1,10 +1,10 @@
 # This is a tutorial of Markdown usage
 
-## Titles
-Tag text with a sharp (#) from both ends to have a big title:
+## Headings
+Tag text with a sharp (#) from both ends to have a big heading:
 # Example_title
 
-Tag text with double-sharps from both ends to have a small title:
+Tag text with double-sharps from both ends to have a small heading:
 ## Example_title_2
 
 ## Italic front
@@ -29,3 +29,17 @@ Use numbers to make numbered list:
 To insert some image start your command with exclamation mark (!) then put some text in brackets [] whcih will be highlighted in case of error and then type name of a desired file in parenthesises ().
 For example:
 ![Something went wrong, try again!](fun_pic.jpg)
+
+## Blockquotes
+To create a blockquote, start a line with greater than > followed by an optional space.
+> Only a Sith deals in absolut (c) Obi-Wan Kenobi, Star Wars
+
+Blockquotes can also containg another formating. Like so:
+> *Only a Sith deals in absolut* (c) Obi-Wan Kenobi, Star Wars
+
+The upper blockquote is in Italic.
+
+Or something like this:
+> *Luke, I am Your Father!*
+![Something went wrong, try again!](fun_pic2.jpg)
+
