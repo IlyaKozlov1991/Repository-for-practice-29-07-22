@@ -25,5 +25,7 @@ Use numbers to make numbered list:
 2. Two
 3. Three
 
-## Typing practice
-Nothing important. Just a small practice of typing to get used to PC, Visual Studio Code and Git.
+## Images
+To insert some image start your command with exclamation mark (!) then put some text in brackets [] whcih will be highlighted in case of error and then type name of a desired file in parenthesises ().
+For example:
+![Something went wrong, try again!](fun_pic.jpg)
