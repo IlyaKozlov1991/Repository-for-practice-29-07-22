@@ -1,10 +1,10 @@
 # This is a tutorial of Markdown usage
 
 ## Headings
-Tag text with a sharp (#) from both ends to have a big heading:
+Enclose text with a sharp (#) from both ends to have a big heading:
 # Example_title
 
-Tag text with double-sharps from both ends to have a small heading:
+Enclose text with double-sharps (##) from both ends to have a small heading:
 ## Example_title_2
 
 ## Italic front
