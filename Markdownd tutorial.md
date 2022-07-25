@@ -1,4 +1,4 @@
-# This is a tutorial of Git usage
+# This is a tutorial of Markdown usage
 
 ## Titles
 Tag text with a sharp (#) from both ends to have a big title:
