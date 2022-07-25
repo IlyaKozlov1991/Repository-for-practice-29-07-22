@@ -43,3 +43,13 @@ Or something like this:
 > *Luke, I am Your Father!*
 ![Something went wrong, try again!](fun_pic2.jpg)
 
+## Links
+To create a link enclose desired text in brackets [] and then immediatelly insert URL in parentheses ().
+
+For example:
+Number One education platform is [GeekBrains](https://gb.ru/)
+
+## E-mails or URLs
+Just enclose e-mail adress or URL in angle brackets <>.
+
+For example: if you found this tutorial useful, please send your feedback to <ilyakozlovmk91@gmail.com>
