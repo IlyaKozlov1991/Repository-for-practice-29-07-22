@@ -58,12 +58,4 @@ Test of new branch funcrion. Here is some text which will not be present in Mast
 
 For example we have an idea, but not sure in it. We can type our code here and keep it.
 
-<<<<<<< HEAD
-Test of new User name.
-
-Again we put some text here and then try.
-
-fsfsfsf
-=======
 NEW USER NAME MODIFIED!
->>>>>>> lesson_2
