@@ -53,3 +53,5 @@ Number One education platform is [GeekBrains](https://gb.ru/)
 Just enclose e-mail adress or URL in angle brackets <>.
 
 For example: if you found this tutorial useful, please send your feedback to <ilyakozlovmk91@gmail.com>
+
+Test of new branch funcrion. Here is some text which will not be present in Master branch.
