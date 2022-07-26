@@ -56,4 +56,4 @@ For example: if you found this tutorial useful, please send your feedback to <il
 
 Test of new branch funcrion. Here is some text which will not be present in Master branch.
 
-For example we have an idea, but not sure in it. We can type or cod here and keep it.
+For example we have an idea, but not sure in it. We can type our code here and keep it.
