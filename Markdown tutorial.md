@@ -54,3 +54,9 @@ Just enclose e-mail adress or URL in angle brackets <>.
 
 For example: if you found this tutorial useful, please send your feedback to <ilyakozlovmk91@gmail.com>
 
+<<<<<<< HEAD
+=======
+Test of new branch funcrion. Here is some text which will not be present in Master branch.
+
+For example we have an idea, but not sure in it. We can type or cod here and keep it.
+>>>>>>> lesson_2
