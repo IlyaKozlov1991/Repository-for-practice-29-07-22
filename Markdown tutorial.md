@@ -1,5 +1,23 @@
 # This is a tutorial of Markdown usage
 
+## Before move on, please acquire with descriptions of commands to be used working with Git
+Git - versions control system determined to simplify control and follow-up of different versions of one project being developed. It will be oftenly used while studying and working on projects.
+
+**git init** - *creates a repository in User's folder where project is stored*
+
+**git add** - *adds a file to git*
+
+**git commit** - *commits changes applied in added file*
+
+**git status** - *shows status of files: whether a file is chamged, tracked or untracked*
+
+**git log** - *shows logs with all applied commits*
+
+**git diff** - *shows difference between files, commits or branches*
+
+**git checkout** - *switches between different versions of files, commits or branches (it is required to specify a name of object you are willing to switch to)*
+
+
 ## Headings
 Enclose text with a sharp (#) from both ends to have a big heading:
 # Example_title
