@@ -76,6 +76,4 @@ Test of new branch funcrion. Here is some text which will not be present in Mast
 
 For example we have an idea, but not sure in it. We can type our code here and keep it.
 
-## Why are branches important and useful?
-Different branches allow user or several users to follow a project and make changes in it. Or test some ideas without impacting the main tree of a project.
 Once idea is tested or changes are accepted branches can be merged (joined together). 
