@@ -72,8 +72,8 @@ Just enclose e-mail adress or URL in angle brackets <>.
 
 For example: if you found this tutorial useful, please send your feedback to <ilyakozlovmk91@gmail.com>
 
-Test of new branch funcrion. Here is some text which will not be present in Master branch.
+## Why are branches important and useful?
+Different branches allow user or several users to follow a project and make changes in it. Or test some ideas without impacting the main tree of a project.
+Once idea is tested or changes are accepted branches can be merged (joined together).
 
-For example we have an idea, but not sure in it. We can type our code here and keep it.
-
-Once idea is tested or changes are accepted branches can be merged (joined together). 
+And then we can continue our work in the main tree of a project.
