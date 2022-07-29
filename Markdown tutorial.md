@@ -83,3 +83,5 @@ And then we can continue our work in the main tree of a project.
 Practice #3
 
 Let's try to pull changes to our PC
+
+**git pull** - *copies data from remote repository and merges it with current version of project on PC"
