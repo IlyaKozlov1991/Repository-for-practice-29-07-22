@@ -86,4 +86,4 @@ Let's try to pull changes to our PC
 
 **git pull** - *copies data from remote repository and merges it with current version of project on PC*
 
-** git push** - *copies data from PC to remote repository*
+**git push** - *copies data from PC to remote repository*
