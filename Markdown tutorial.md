@@ -77,3 +77,8 @@ Different branches allow user or several users to follow a project and make chan
 Once idea is tested or changes are accepted branches can be merged (joined together).
 
 And then we can continue our work in the main tree of a project.
+
+29/07/2022
+
+Practice #3
+
